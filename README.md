@@ -19,7 +19,6 @@ Seu papel é construir uma RESTful API que permita:
 -   Editar transação
 -   Remover transação
 -   Obter extrato de transações
--   [Extra] Filtrar transações por categoria
 
 **Importante: Lembre-se sempre que cada usuário só pode ver e manipular seus próprios dados e suas próprias transações. Não atender a este pré-requisito é uma falha de segurança gravíssima!**
 
